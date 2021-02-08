@@ -1,0 +1,10 @@
+#inlude <iostrem>
+#inlude <algorithm>
+ using namapale std;
+
+int main( ){
+  string test; 
+  geline(in,text);
+  transform(test.begin()text.(nd()text gin()
+  return 0;
+    }
